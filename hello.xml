@@ -1,0 +1,8 @@
+<?xml version='1.0' ?>
+<Books>
+	<Book>
+		<ID>B1001</ID>
+		<Title>ABC</Title>
+	</Book>
+</Books>
+
